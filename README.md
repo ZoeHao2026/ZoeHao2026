@@ -12,8 +12,12 @@
 
 <!-- GitHub 统计卡片 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZoeHao2026&show_icons=true&count_private=true&theme=radical&hide_border=true&rank_icon=github&locale=zh-cn" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoeHao2026&layout=compact&theme=radical&hide_border=true&locale=zh-cn" alt="Top Languages" width="42%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZoeHao2026&theme=radical" width="85%" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZoeHao2026&theme=radical" width="45%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-language?username=ZoeHao2026&theme=radical" width="40%" alt="Top Languages" />
 </p>
 
 <!-- 动态波浪尾图 -->
