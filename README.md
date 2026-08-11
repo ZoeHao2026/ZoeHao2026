@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZoeHao2026&theme=radical" width="45%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-language?username=ZoeHao2026&theme=radical" width="40%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZoeHao2026&theme=radical" width="40%" alt="Top Languages" />
 </p>
 
 <!-- 动态波浪尾图 -->
