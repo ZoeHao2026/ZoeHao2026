@@ -1,24 +1,38 @@
-<!-- 动态波浪头图 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=160&section=header&text=ZoeHao2026&fontSize=44&fontAlignY=34&animation=twinkling" width="100%" />
+<div align="center">
 
-<h1 align="center">👋 Hi, I'm Hao</h1>
-<h3 align="center">🚀 Code · Tech · Explore</h3>
+# 你好，我是 Zoe Hao 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=F7D622&center=true&vCenter=true&width=520&lines=Hi+there,+I%27m+ZoeHao2026;Code+%E2%9C%A6+Tech+%E2%9C%A6+Explore;Always+learning+new+things;Welcome+to+my+profile" alt="Typing SVG" />
-</p>
+### 综合型开发者 / 探索者
+
+**Generalist developer & explorer — learning through small, meaningful projects.**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=52&lines=%E5%9C%A8%E4%BB%A3%E7%A0%81%E4%B8%8E%E5%88%9B%E6%84%8F%E4%B9%8B%E9%97%B4%E6%8C%81%E7%BB%AD%E6%8E%A2%E7%B4%A2;%E7%94%A8%E5%B0%8F%E9%A1%B9%E7%9B%AE%E5%AD%A6%E4%B9%A0+%C2%B7+%E7%94%A8%E5%AE%9E%E8%B7%B5%E6%B2%89%E6%B7%80;Keep+learning+%C2%B7+Keep+building">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=19&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=620&height=52&lines=%E5%9C%A8%E4%BB%A3%E7%A0%81%E4%B8%8E%E5%88%9B%E6%84%8F%E4%B9%8B%E9%97%B4%E6%8C%81%E7%BB%AD%E6%8E%A2%E7%B4%A2;%E7%94%A8%E5%B0%8F%E9%A1%B9%E7%9B%AE%E5%AD%A6%E4%B9%A0+%C2%B7+%E7%94%A8%E5%AE%9E%E8%B7%B5%E6%B2%89%E6%B7%80;Keep+learning+%C2%B7+Keep+building">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=19&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=620&height=52&lines=%E5%9C%A8%E4%BB%A3%E7%A0%81%E4%B8%8E%E5%88%9B%E6%84%8F%E4%B9%8B%E9%97%B4%E6%8C%81%E7%BB%AD%E6%8E%A2%E7%B4%A2;%E7%94%A8%E5%B0%8F%E9%A1%B9%E7%9B%AE%E5%AD%A6%E4%B9%A0+%C2%B7+%E7%94%A8%E5%AE%9E%E8%B7%B5%E6%B2%89%E6%B7%80;Keep+learning+%C2%B7+Keep+building" alt="在代码与创意之间持续探索；用小项目学习、用实践沉淀；Keep learning, keep building">
+</picture>
+
+</div>
 
 ---
 
-<!-- GitHub 统计卡片 -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZoeHao2026&theme=radical" width="85%" alt="Profile Details" />
-</p>
+## 关于我 · About
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZoeHao2026&theme=radical" width="45%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZoeHao2026&theme=radical" width="40%" alt="Top Languages" />
-</p>
+我对代码、技术和创意的交汇保持好奇。比起堆砌标签，我更喜欢通过小项目把想法变成真实、可用的东西。
 
-<!-- 动态波浪尾图 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer" width="100%" />
+*Curious about the intersection of code, technology, and creativity—turning ideas into useful software, one small project at a time.*
+
+## 现在 · Now
+
+- 🔭 探索能解决真实问题的软件想法
+- 🌱 通过小项目持续学习与构建
+- ✍️ 逐步整理并分享过程与成果
+
+---
+
+<div align="center">
+
+**感谢来访，更多内容正在路上。**  
+*Thanks for stopping by — more is on the way.*
+
+</div>
