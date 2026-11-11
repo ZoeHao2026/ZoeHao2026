@@ -28,6 +28,22 @@
 - 🌱 通过小项目持续学习与构建
 - ✍️ 逐步整理并分享过程与成果
 
+## 精选项目 · Selected Projects
+
+### [DSH Temporary Project · 临时项目](https://github.com/ZoeHao2026/dsh-temporary-project)
+
+为 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 的新建会话加入「临时对话」：一键创建独立临时项目目录与 Workspace，并直接进入空白 Agent 会话，无需手动选择项目目录。中英双语，无运行时依赖。
+
+*One-click temporary projects for the DeepSeek Harness Web GUI: a disposable project directory and a fresh agent session, with no folder picking. Bilingual UI, zero runtime dependencies.*
+
+<p>
+  <a href="https://github.com/ZoeHao2026/dsh-temporary-project/releases"><img src="https://img.shields.io/github/v/release/ZoeHao2026/dsh-temporary-project?label=release" alt="Latest release"></a>
+  <a href="https://github.com/ZoeHao2026/dsh-temporary-project/actions/workflows/verify.yml"><img src="https://github.com/ZoeHao2026/dsh-temporary-project/actions/workflows/verify.yml/badge.svg" alt="Verify plugin"></a>
+  <a href="https://github.com/ZoeHao2026/dsh-temporary-project/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
+</p>
+
+`JavaScript` · `DSH Plugin` · `MIT`
+
 ---
 
 <div align="center">
